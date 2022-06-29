@@ -86,7 +86,7 @@ Registration is from 9:30 onwards in University House (see [Location](#Location)
 
 NBUG 6 will be held in **University House** on the University of Leeds Campus.  For detailed instructions about getting to the site, including information on public transport options please see the [directions.pdf](https://www.dropbox.com/s/fw47sns7nvrlpyq/NBUG_Leeds_directions.pdf?dl=1) document.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2355.997557594421!2d-1.5588705398256335!3d53.807327166814396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48795ea90d7c829f%3A0xe6c7102a89354b2!2sUniversity%20House%2C%20Leeds%20LS2%209JT!5e0!3m2!1sen!2suk!4v1568381240853!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://goo.gl/maps/bGWcGLhQrzKHgcaZ7" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 ### Sponsors
 
