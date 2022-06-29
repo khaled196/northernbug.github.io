@@ -12,7 +12,7 @@ permalink: northernbug7
 # General
 
 
-<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2001.387775136842!2d-1.4912409260097166!3d53.377893936138335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487982776c813b27%3A0x328ab9775db14bd6!2sSheffield+Institute+for+Translational+Neuroscience!5e0!3m2!1sen!2suk!4v1536665354716" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+<!-- <iframe src="https://www.google.com/maps/place/University+of+Bradford/@53.7914677,-1.766069,15z/data=!4m5!3m4!1s0x0:0x3e1c202b0be48ed2!8m2!3d53.7914677!4d-1.766069" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
 
 We are delighted to host the NorthernBUG 7 meeting on Friday, 09th September 2022 at **Norcroft Conference Centre 9 Tumbling Hill St, Bradford BD7 1DB.**. The meeting will start at 12pm with lunch and finish at 5pm, followed by drinks at a local pub.   
 
