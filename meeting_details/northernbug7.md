@@ -46,17 +46,14 @@ The previous meeting in November 2021 was Canceled due to Covid pandemic, so we 
 | 13:30-13:45 |  |  |  |
 | 13:45-14:00 |  |  |  |
 | 14:00-14:15 |  |  |  |
-| 14:15-14:30 | All |Session Discussion
-  |  |
-| 14:30-15:30 | All | Coffee Break and Poster Session
-  |  |
+| 14:15-14:30 | All |Session Discussion |  |
+| 14:30-15:30 | All | Coffee Break and Poster Session |  |
 | 15:30-15:45 |  |  |  |
 | 15:45-16:00 |  |  |  |
-| 16:00-16:30 | All |Closing Remarks and Discussion
-  |  |
-| 16:30-      | All | Drinks - Sunbridge Wells, Bradford
-  |  |
-
+| 16:00-16:30 | All |Closing Remarks and Discussion |  |
+| 16:30-      | All | Drinks - Sunbridge Wells, Bradford |  |
+  
+  
 # Speakers
 
 Add speakers here as this template
