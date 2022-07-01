@@ -11,6 +11,8 @@ permalink: northernbug7
 
 # General
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2844.7825223944224!2d-1.7649352000000105!3d53.792291100000035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487be6b45701fa61%3A0x24e69d65bf14dcbd!2s9%20Tumbling%20Hill%20St%2C%20Bradford%20BD7%201DB!5e1!3m2!1sen!2suk!4v1656680515875!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
 
 We are delighted to host the NorthernBUG 7 meeting on Friday, 09th September 2022 at **Norcroft Conference Centre 9 Tumbling Hill St, Bradford BD7 1DB.**. The meeting will start at 12pm with lunch and finish at 5pm, followed by drinks at a local pub. 
 
@@ -18,7 +20,6 @@ Coming to the meeting by public transport is strongly recommended and the confer
 
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2844.7825223944224!2d-1.7649352000000105!3d53.792291100000035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487be6b45701fa61%3A0x24e69d65bf14dcbd!2s9%20Tumbling%20Hill%20St%2C%20Bradford%20BD7%201DB!5e1!3m2!1sen!2suk!4v1656680515875!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 We're looking for a range of:
 - 10 minute talks (if you would like to talk for longer please just let us know).
@@ -44,12 +45,16 @@ The previous meeting in November 2021 was Canceled due to Covid pandemic, so we 
 | 13:30-13:45 |  |  |  |
 | 13:45-14:00 |  |  |  |
 | 14:00-14:15 |  |  |  |
-| 14:15-14:30 |  |  |  |
-| 14:30-15:30 | All | Coffee |  |
+| 14:15-14:30 | All |Session Discussion
+  |
+| 14:30-15:30 | All | Coffee Break and Poster Session
+ |  |
 | 15:30-15:45 |  |  |  |
 | 15:45-16:00 |  |  |  |
-| 16:00-16:30 |  |  |  |
-| 16:30-      | All | Drinks  |  |
+| 16:00-16:30 | All |Closing Remarks and Discussion
+  |
+| 16:30-      | All | Drinks - Sunbridge Wells, Bradford
+  |  |
 
 # Speakers
 
