@@ -44,6 +44,8 @@ The previous meeting in November 2021 was Canceled because of the Covid pandemic
 
 # Speakers
 
+Add speakers here as this template
+
 - [Krzysztof Poterlowicz University of Bradford](https://www.bradford.ac.uk/staff/KPoterlowicz1)
 
 ## Invited
