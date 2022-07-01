@@ -29,32 +29,45 @@ The previous meeting in November 2021 was Canceled because of the Covid pandemic
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
 | 12:00-13:00 | All  | Lunch |  |
-| 13:00-13:10 | Krzysztof Poterlowicz | Introduction  |  |
-| 13:10-13:20 |  |  |  |
-| 13:20-13:40 |  |  |  |
-| 13:40-13:50 |  |  |  |
-| 13:50-14:20 |  |  |  |
-| 14:20-14:30 |  |  |  |
-| 14:30-15:00 |  |  |  |
-| 15:00-15:20 | All | Coffee |  |
-| 15:20-15:30 |  |  |  |
-| 15:30-16:00 |  |  |  |
+| 13:00-13:05 | Krzysztof Poterlowicz | Introduction  |  |
+| 13:05-13:15 |  |  |  |
+| 13:15-13:30 |  |  |  |
+| 13:30-13:45 |  |  |  |
+| 13:45-14:00 |  |  |  |
+| 14:00-14:15 |  |  |  |
+| 14:15-14:30 |  |  |  |
+| 14:30-15:30 | All | Coffee |  |
+| 15:30-15:45 |  |  |  |
+| 15:45-16:00 |  |  |  |
 | 16:00-16:30 |  |  |  |
-| 16:30-17:00 | All | Drinks  |  |
+| 16:30-      | All | Drinks  |  |
 
 # Speakers
 
 - [Krzysztof Poterlowicz University of Bradford](https://www.bradford.ac.uk/staff/KPoterlowicz1)
 
 ## Invited
+The invited guests
+
+For example 
+
+- [MR X](His link)
 
 
 ## Accepted
+The people who accepted the invite
+For example 
 
+- [MR X](His link)
 
 ## Student
+The students who will come to the conference
+For example 
 
+- [MR X](His link)
 
 # Registration
 
 **eventbrite link (I can creat the event but not sure if it is the good step)** 
+
+[Name the regestration](add link here)
