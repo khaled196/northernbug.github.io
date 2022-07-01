@@ -12,8 +12,7 @@ permalink: northernbug7
 # General
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1436.231967323356!2d-1.7643648!3d53.7913833!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8ccba779752ba3e!2zNTPCsDQ3JzMwLjciTiAxwrA0NSc1MC44Ilc!5e1!3m2!1sen!2suk!4v1656672947630!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1436.231967323356!2d-1.7643648!3d53.7913833!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8ccba779752ba3e!2zNTPCsDQ3JzMwLjciTiAxwrA0NSc1MC44Ilc!5e1!3m2!1sen!2suk!4v1656672947630!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 
 We are delighted to host the NorthernBUG 7 meeting on Friday, 09th September 2022 at **Norcroft Conference Centre 9 Tumbling Hill St, Bradford BD7 1DB.**. The meeting will start at 12pm with lunch and finish at 5pm, followed by drinks at a local pub.   
@@ -21,8 +20,11 @@ We are delighted to host the NorthernBUG 7 meeting on Friday, 09th September 202
 
 We're looking to discuss 
 
-* Visualization and management of research data
-* HPC/software tools 
+* Data Visualization
+* Data management
+* HPC/software tools and how to applay that into your analysis 
+* Execute the commands in a containerized environment (Conda)
+
 
 The previous meeting in November 2021 was Canceled because of the Covid pandemic, so we are happy to see you in person this year. 
 
