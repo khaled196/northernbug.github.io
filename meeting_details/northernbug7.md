@@ -16,7 +16,7 @@ permalink: northernbug7
 
 We are delighted to host the NorthernBUG 7 meeting on Friday, 09th September 2022 at **Norcroft Conference Centre 9 Tumbling Hill St, Bradford BD7 1DB.**. The meeting will start at 12pm with lunch and finish at 5pm, followed by drinks at a local pub. 
 
-Coming to the meeting by public transport is strongly recommended and the conference centre is a short walk from both Bradford Foster Square and Interchange rail and bus station.
+Coming to the meeting by public transport is strongly recommended and the conference center is a short walk from both Bradford Foster Square and Interchange rail and bus station.
 
 We're looking for a range of:
 * 10 minute talks (if you would like to talk for longer please just let us know).
