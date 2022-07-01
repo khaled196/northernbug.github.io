@@ -20,9 +20,7 @@ Coming to the meeting by public transport is strongly recommended and the confer
 
 We're looking for a range of:
 * 10 minute talks (if you would like to talk for longer please just let us know).
-
 * Posters accompanied by a 1-2 minute teaser talk. These are great for those who might be earlier on in their bioinformatics journey!
-
 * Data Visualization
 * Data management
 * HPC/software tools and how to applay that into your analysis 
