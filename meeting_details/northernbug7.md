@@ -25,7 +25,7 @@ We're looking for a range of:
 * HPC/software tools
 * Execute commands in containerized environment e.g. (Conda)
 
-If anyone would like to fill any of these slots please contact [khaled jumah](mailto:	k.jumah@bradford.ac.uk) and please extend the invite around your lab/department etc!
+If anyone would like to fill any of these slots please contact [khaled jumah](mailto:k.jumah@bradford.ac.uk) and please extend the invite around your lab/department etc!
 
 The previous meeting in November 2021 was Canceled due to Covid pandemic, so we are happy to see you in person this year. 
 
