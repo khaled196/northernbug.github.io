@@ -1,12 +1,15 @@
 ---
-layout: meeting
-author: Krzysztof Poterlowicz, Lucy Stead, Khaled Jumah
-title: NorthernBUG 7
-date: 09 Sept 2022
+title: "NorthernBUG 7"
+author: "Krzysztof Poterlowicz, Lucy Stead, Khaled Jumah"
+date: "09 Sept 2022"
+output:
+  html_document:
+    df_print: paged
 institute: University of Bradford
 postcode: BD7 1DB
-address:
+address: null
 permalink: northernbug7
+layout: meeting
 ---
 
 # General
