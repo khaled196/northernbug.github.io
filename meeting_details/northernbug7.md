@@ -94,7 +94,7 @@ This year we particularly look forward to topics such as:
     *   HPC/software tools
     *   Software environment and containerization, e.g. conda.
 
-However, if you have any other proposals, we welcome any topics relevant to the NorthenBUG audience. You can view previous topics and agendas on our meetings page ([https://northernbug.github.io/meetings/](https://northernbug.github.io/meetings/))
+However, if you have any other proposals, we welcome any topics relevant to the NorthenBUG audience. You can view previous topics and agendas on our meetings page: ([https://northernbug.github.io/meetings/](https://northernbug.github.io/meetings/))
 
 Talk submission: ([https://forms.clickup.com/20526645/f/kjdhn-4468/E0G0ODWGJJSF3L4NEJ](https://forms.clickup.com/20526645/f/kjdhn-4468/E0G0ODWGJJSF3L4NEJ))
 
