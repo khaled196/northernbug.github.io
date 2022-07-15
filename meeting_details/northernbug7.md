@@ -18,7 +18,7 @@ NorthenBUG7 will be hosted this time as a hybrid event. While in-person attendee
 The meeting will start at 12 pm with lunch, and finish at 5 pm, followed by drinks at a local pub.
 
 
-\*\*Contact\*\*: [compdata@bradford.ac.uk](mailto:compdata@bradford.ac.uk)
+\*\*Contact\*\* [compdata@bradford.ac.uk](mailto:compdata@bradford.ac.uk)
 
 
 # Agenda
@@ -75,7 +75,7 @@ Coming to the meeting by public transport is strongly recommended. The Conferenc
 
 Use the form to register at no cost to attend both in-person and online. We'll send you a confirmation email and further details closer to the event date.
 
-Registration form: ([https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3](https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3))
+Registration form ([https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3](https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3))
 
 \*\*Registration deadline\*\*: 5 September 20212
 
@@ -96,7 +96,7 @@ This year we particularly look forward to topics such as:
 
 However, if you have any other proposals, we welcome any topics relevant to the NorthenBUG audience. You can view previous topics and agendas on our meetings page: ([https://northernbug.github.io/meetings/](https://northernbug.github.io/meetings/))
 
-Talk submission: ([https://forms.clickup.com/20526645/f/kjdhn-4468/E0G0ODWGJJSF3L4NEJ](https://forms.clickup.com/20526645/f/kjdhn-4468/E0G0ODWGJJSF3L4NEJ))
+Talk submission ([https://forms.clickup.com/20526645/f/kjdhn-4468/E0G0ODWGJJSF3L4NEJ](https://forms.clickup.com/20526645/f/kjdhn-4468/E0G0ODWGJJSF3L4NEJ))
 
   
 
@@ -104,5 +104,5 @@ Talk submission: ([https://forms.clickup.com/20526645/f/kjdhn-4468/E0G0ODWGJJSF3
 
 We encourage people presenting posters also to give a 1-minute teaser talk. These are great for those who might not be ready to give a full talk but would like to advertise their topic and get as many people as possible to discuss their poster. Details on the 1-minute teaser talks will be circulated later, but in short, it's 1 minute, 1 slide – and do not try to summarise three years of work, just the 'elevator pitch'.
 
-Poster submission: ([https://forms.clickup.com/20526645/f/kjdhn-4428/12UG6D31HMUQRH7DRZ](https://forms.clickup.com/20526645/f/kjdhn-4428/12UG6D31HMUQRH7DRZ))
+Poster submission ([https://forms.clickup.com/20526645/f/kjdhn-4428/12UG6D31HMUQRH7DRZ](https://forms.clickup.com/20526645/f/kjdhn-4428/12UG6D31HMUQRH7DRZ))
 
