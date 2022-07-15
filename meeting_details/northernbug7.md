@@ -75,7 +75,7 @@ Coming to the meeting by public transport is strongly recommended. The Conferenc
 
 Use the form to register at no cost to attend both in-person and online. We'll send you a confirmation email and further details closer to the event date.
 
-[Registration form]([https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3](https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3)
+Registration form: ([https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3](https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3)
 
 \*\*Registration deadline\*\*: 5 September 20212
 
@@ -96,7 +96,7 @@ This year we particularly look forward to topics such as:
 
 However, if you have any other proposals, we welcome any topics relevant to the NorthenBUG audience. You can view previous topics and agendas on our [meetings page] ([https://northernbug.github.io/meetings/](https://northernbug.github.io/meetings/))
 
-[Talk submission]([https://forms.clickup.com/20526645/f/kjdhn-4468/E0G0ODWGJJSF3L4NEJ](https://forms.clickup.com/20526645/f/kjdhn-4468/E0G0ODWGJJSF3L4NEJ))
+Talk submission: ([https://forms.clickup.com/20526645/f/kjdhn-4468/E0G0ODWGJJSF3L4NEJ](https://forms.clickup.com/20526645/f/kjdhn-4468/E0G0ODWGJJSF3L4NEJ))
 
   
 
