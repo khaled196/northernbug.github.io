@@ -75,7 +75,7 @@ Coming to the meeting by public transport is strongly recommended. The Conferenc
 
 Use the form to register at no cost to attend both in-person and online. We'll send you a confirmation email and further details closer to the event date.
 
-[Registration form]([https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3](https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3))
+[Registration form]([https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3](https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3)
 
 \*\*Registration deadline\*\*: 5 September 20212
 
